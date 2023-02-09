@@ -1,6 +1,6 @@
 /* Solicita a idade do usuário e guarda na variável idadeStr
    no formato string (é necessário converter para inteiro depois) */
-let idadeStr = prompt("Qual é a idade?");
+let idadeStr = prompt("Qual é a idade no documento?");
 
 // Converte idadeStr para um número inteiro e guarda na variável idade
 let idade = parseInt(idadeStr);
